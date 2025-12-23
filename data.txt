@@ -1,0 +1,28 @@
+===== DATA BACKUP =====
+Backup time: 2025-11-12 12:33:00
+======================================
+
+===== PIPES DATA =====
+Total pipes: 1
+--------------------------------------
+
+ID: 1
+KM Mark: tr1
+Length (km): 1.00
+Diameter (mm): 1
+On repair: Yes
+~~~
+
+
+===== COMPRESSOR STATIONS DATA =====
+Total stations: 1
+--------------------------------------
+
+ID: 1
+Name: cs
+Workshops: 10
+Working: 5
+Classification: rr
+Active: Yes
+~~~
+
